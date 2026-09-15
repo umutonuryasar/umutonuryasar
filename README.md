@@ -1,4 +1,4 @@
-# Hi, I'm Umut 👋
+# Hi, I'm Umut
 
 **Applied AI Research Engineer** working on model efficiency, computer vision, and multimodal learning.
 
@@ -8,23 +8,23 @@ Currently exploring CLIP-style multimodal learning and efficient vision architec
 
 ## Selected Work
 
-### 🔬 MicroCLIP
+### MicroCLIP
 **From-scratch CLIP-style vision-language model**
 
 Building and experimentally studying a compact vision-language model, with a focus on contrastive learning objectives, training dynamics, and compute-efficient experimentation.
 
 `PyTorch` · `CLIP` · `Vision Transformers` · `Contrastive Learning`
 
-### 🧠 RT-DETR Knowledge Distillation
+### RT-DETR Knowledge Distillation
 **Knowledge distillation for real-time object detection**
 
 Research project investigating logit-, feature-, and combined-distillation strategies for RT-DETR, with reproducible experiments and deployment-oriented evaluation.
 
-📄 **First-author preprint:** [arXiv:2605.31191](https://arxiv.org/abs/2605.31191)
+**First-author preprint:** [arXiv:2605.31191](https://arxiv.org/abs/2605.31191)
 
 `Knowledge Distillation` · `RT-DETR` · `Object Detection` · `PyTorch`
 
-### ⚙️ detrflow
+### detrflow
 **Training, evaluation, and serving stack for RT-DETR**
 
 An end-to-end implementation covering training, evaluation, benchmarking, and deployment, including FastAPI/Gradio serving and Docker support.
