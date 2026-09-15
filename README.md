@@ -8,14 +8,14 @@ Currently exploring CLIP-style multimodal learning and efficient vision architec
 
 ## Selected Work
 
-### MicroCLIP
+### **[MicroCLIP](https://github.com/umutonuryasar/microclip)**
 **From-scratch CLIP-style vision-language model**
 
 Building and experimentally studying a compact vision-language model, with a focus on contrastive learning objectives, training dynamics, and compute-efficient experimentation.
 
 `PyTorch` · `CLIP` · `Vision Transformers` · `Contrastive Learning`
 
-### RT-DETR Knowledge Distillation
+### **[RT-DETR Knowledge Distillation](https://github.com/umutonuryasar/rt-detr-kd)**
 **Knowledge distillation for real-time object detection**
 
 Research project investigating logit-, feature-, and combined-distillation strategies for RT-DETR, with reproducible experiments and deployment-oriented evaluation.
@@ -24,7 +24,7 @@ Research project investigating logit-, feature-, and combined-distillation strat
 
 `Knowledge Distillation` · `RT-DETR` · `Object Detection` · `PyTorch`
 
-### detrflow
+### **[detrflow](https://github.com/umutonuryasar/detrflow)**
 **Training, evaluation, and serving stack for RT-DETR**
 
 An end-to-end implementation covering training, evaluation, benchmarking, and deployment, including FastAPI/Gradio serving and Docker support.
